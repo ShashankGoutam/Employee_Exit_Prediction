@@ -40,16 +40,16 @@ Open the notebook in VSCode / JupyterLab to launch and edit HR.ipynb
 ## 📊 Visual Insights
 
 ### 1. Class Distribution
-![Class Distribution](output.png)
+![Class Distribution](output/output.png)
 
 ### 2. Satisfaction vs Work Hours
-![Satisfaction vs Hours](output2.png)
+![Satisfaction vs Hours](output/output2.png)
 
 ### 3. Correlation Heatmap
-![Correlation Heatmap](output3.png)
+![Correlation Heatmap](output/output3.png)
 
 ### 4. ANN Accuracy Over Epochs
-![ANN Accuracy](output4.png)
+![ANN Accuracy](output/output4.png)
 
 ---
 
